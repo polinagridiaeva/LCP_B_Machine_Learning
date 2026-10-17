@@ -1,4 +1,4 @@
-# Machine Learning for Physics — LCP Module B Exercises
+# LCP Module B Exercises
 
 Solutions to the exercises of the **Laboratory of Computational Physics – Module B** course (MSc in Physics of Data, University of Padova, A.Y. 2025/26).
 
